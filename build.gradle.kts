@@ -24,7 +24,7 @@ dependencies {
     // Replace VERSION by the version you want. It can be a fully qualified version number or a Git hash (a string
     // of strange looking numbers and letters).
     // To update libstorytree, simply change the VERSION to the latest release
-    implementation("com.github.utybo.StoryFX:libstorytree:73f9544a92")
+    implementation("com.github.utybo.StoryFX:libstorytree:35e7fcf289")
     /*********************************************************************/
 }
 

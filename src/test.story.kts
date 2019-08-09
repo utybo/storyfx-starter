@@ -16,7 +16,7 @@ story {
     title = "Sample story"
     author = "Me"
 
-    node(1) with {
+    node(1) {
         body {
             """
             This is my first node 
